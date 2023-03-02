@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.button {
+    background-color: #7c280f; 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button1 {border-radius: 50%;}
+  .button2 {border-radius: 50%;}
+  .button3 {border-radius: 50%;}
+  a{
+    text-decoration: none;
+    background-color: #7c280f; 
+  }
+  form input {
+    background-color: aqua;
+  }
+  #black{background-color: black;}
+
+  .phone no {
+    color: blue;
+  }
+  #phoneno{
+    color: aqua;
+    background-color: blue;
+  }
